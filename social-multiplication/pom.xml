@@ -25,11 +25,11 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>microservices.book</groupId>
-			<artifactId>gamification-v5</artifactId>
-			<version>${project.version}</version>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 			<groupId>microservices.book</groupId> -->
+<!-- 			<artifactId>gamification-v5</artifactId> -->
+<!-- 			<version>${project.version}</version> -->
+<!-- 		</dependency> -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
